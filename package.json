@@ -1,0 +1,16 @@
+{
+  "name": "nitrous-webpack",
+  "version": "1.0.0",
+  "description": "A tutorial on linting in webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quazi Nafiul Islam",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "node-libs-browser": "^0.5.3"
+  }
+}
